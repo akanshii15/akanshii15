@@ -1,7 +1,3 @@
-<!-- Header animation -->
-<p align="center">
-  <img width="80" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="coding girl" />
-</p>
 
 <h1 align="center">Hello There, I am Akanshi Singh</h1>
 
