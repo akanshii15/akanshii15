@@ -1,31 +1,62 @@
-# Hello There, I am Akanshi Singh 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/assets/Hi.gif" width="120px">
+</p>
 
-## ☝️ About Me
-- 🔭 I’m a passionate Frontend Developer
-- 💬 Love working with HTML, CSS, JS, and cool animations
-- 🌱 Currently exploring ML and Data Science
-- 🤝 Always open to collaborations and learning
+<h1 align="center">Hey there, I'm Akanshi Singh 👋</h1>
+<h3 align="center">💻 Frontend Developer | 🌸 ML Learner | 🎨 Creative Coder</h3>
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+---
 
-## 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+### ☝️ About Me  
+- 🔭 I’m passionate about **Frontend Development** and **AI/ML**
+- 🌱 Currently exploring **Machine Learning & Full Stack Projects**
+- 🤝 Love collaborating with **tech enthusiasts** and creative coders
+- ✨ Always excited to build things that make people’s life easier
+- 💕 Outside of code, I enjoy **music, design, and journaling**
 
-## 📊 GitHub Stats
-![Akanshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkanshiSingh&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=AkanshiSingh&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkanshiSingh&layout=compact&theme=tokyonight)
+---
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=AkanshiSingh&theme=onedark)
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/akanshisingh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="110"/></a>
+  <a href="mailto:akanshi281282@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" width="90"/></a>
+  <a href="https://leetcode.com/u/akanshii15/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white" width="100"/></a>
+  <a href="https://www.instagram.com/akanshisingh" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" width="110"/></a>
+</p>
 
-## 🎉 Hacktoberfest & Open Source Badges
-[![@akanshi's Holopin board](https://holopin.me/akanshi)](https://holopin.io/@akanshi)
+---
+
+### 💻 Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,bootstrap,git,github,vscode,postman" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akanshii15&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akanshii15&theme=tokyonight" height="180em" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akanshii15&theme=dracula&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+### 🪄 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akanshii15&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="AkanshiSingh" />
+</p>
+
+---
+
+### 🎉 Hacktoberfest & Open Source Badges
+<p align="center">
+  <img src="https://holopin.me/akanshii15" alt="@akanshii15's Holopin board" />
+</p>
+
