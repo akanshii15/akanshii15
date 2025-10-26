@@ -9,9 +9,7 @@
 🌱 Continuously exploring new frameworks, libraries, and real-world problem solving  
 🎨 Outside coding, I enjoy digital art and creative design  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="500">
-</p>
+
 
 ## 🌐 Socials
 
