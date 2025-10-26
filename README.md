@@ -41,22 +41,4 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akanshii15&theme=dracula&margin-w=15&margin-h=15" />
-</p>
-
----
-
-### 🪄 Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akanshii15&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="AkanshiSingh" />
-</p>
-
----
-
-### 🎉 Hacktoberfest & Open Source Badges
-<p align="center">
-  <img src="https://holopin.me/akanshii15" alt="@akanshii15's Holopin board" />
-</p>
 
