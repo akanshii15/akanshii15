@@ -49,9 +49,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akanshii15&layout=compact&theme=tokyonight)  
 
-## 🎉 Badges & Open Source
 
-[![Holopin Badges](https://holopin.me/akanshii15)](https://holopin.io/@akanshii15)
-
-[![Visitor Badge](https://api.visitorbadge.io/api/VisitorHit?user=akanshii15&repo=akanshii15&countColor=%237B1E7A)](https://github.com/akanshii15)
 
